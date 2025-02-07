@@ -72,7 +72,7 @@ const Header = () => {
                   : "text-white"
               }
             >
-              USED YACHTS
+              GEBRAUCHTE YACHTEN 
             </li>
           </Link>
           <Link to={"/newyacht"}>
@@ -83,7 +83,7 @@ const Header = () => {
                   : "text-white"
               }
             >
-              NEW YACHTS
+              NEUE YACHTEN 
             </li>
           </Link>
           <Link to={"/services"}>
@@ -105,7 +105,7 @@ const Header = () => {
                   : "text-white"
               }
             >
-              TRADE FAIRS
+              MESSETERMINE 
             </li>
           </Link>
           <Link to={"/references"}>
@@ -116,7 +116,7 @@ const Header = () => {
                   : "text-white"
               }
             >
-              REFERENCES
+              REFERENZEN
             </li>
           </Link>
           <Link to={"/aboutus"}>
@@ -127,7 +127,7 @@ const Header = () => {
                   : "text-white"
               }
             >
-              ABOUT US
+              ÜBER UNS
             </li>
           </Link>
           <Link to={"/contact"}>
@@ -138,7 +138,7 @@ const Header = () => {
                   : "text-white"
               }
             >
-              CONTACT
+              KONTAKT
             </li>
           </Link>
         </ul>
