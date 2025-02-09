@@ -9,15 +9,6 @@ const Refernces = () => {
       <img src={refrence} alt="" />
       <div className="bg-blue-900 w-full h-22 lg:h-12">
         <div className="flex flex-col lg:flex-row justify-evenly items-center lg:items-start">
-          <h4 className="text-white mt-1 text-sm lg:text-base">
-            Phone: +000000000
-          </h4>
-          <h4 className="text-white mt-1 text-sm lg:text-base">
-            Mobile: +000000000000
-          </h4>
-          <h4 className="text-white mt-1 text-sm lg:text-base">
-            Mail: info@msp-yacht.de
-          </h4>
         </div>
       </div>
     </div>
