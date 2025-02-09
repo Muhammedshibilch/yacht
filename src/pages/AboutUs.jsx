@@ -26,9 +26,7 @@ const AboutUs = () => {
     <div className="flex flex-col lg:flex-row mt-5 items-stretch lg:justify-center lg:gap-5 px-4 lg:px-0">
   <div className="flex flex-col lg:w-1/3 justify-center items-center">
     <img src={men1} className="w-full lg:w-auto h-auto lg:h-64 object-cover" alt="" />
-    <p className='mt-1'>Telefon: 000000000</p>
-    <p>Mobil: +49 (0) 00000000</p>
-    <p>Email:  <a href="">info@msp-yacht.de</a></p>
+    <p>Email:  <a href="">info@broker-yacht.de</a></p>
   </div>
   <div className="flex flex-col lg:w-1/3 justify-center mt-5 lg:mt-0">
     <h5 className="text-black font-bold">JAN SPENGLER</h5>
