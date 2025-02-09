@@ -58,15 +58,13 @@ const Footer = () => {
             <p>Osterbrooksweg 29</p>
             <p>22869 Schenefeld</p>
             <p>Schleswig-Holstein</p>
-            <p>Tel: +49 (0) 40 6073 1963</p>
-            <p>Mobile: +49 (0) 174 162 6000</p>
             <p>
               Mail:{" "}
               <a
-                href="mailto:info@msp-yacht.de"
+                href="mailto:info@broker-yacht.de"
                 className="text-blue-900 hover:underline"
               >
-                info@msp-yacht.de
+                info@broker-yacht.de
               </a>
             </p>
           </div>
