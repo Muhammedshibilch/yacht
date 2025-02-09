@@ -9,13 +9,7 @@ const Contact = () => {
         <div className="bg-blue-900 w-full h-22 lg:h-12">
           <div className="flex flex-col lg:flex-row justify-evenly items-center lg:items-start">
             <h4 className="text-white mt-1 text-sm lg:text-base text-center lg:text-left">
-              Phone: +000000000
-            </h4>
-            <h4 className="text-white mt-1 text-sm lg:text-base text-center lg:text-left">
-              Mobile: +000000000000
-            </h4>
-            <h4 className="text-white mt-1 text-sm lg:text-base text-center lg:text-left">
-              Mail: info@msp-yacht.de
+              Mail: info@broker-yacht.de
             </h4>
           </div>
         </div>
@@ -36,11 +30,7 @@ const Contact = () => {
           </div>
           <div className="flex flex-col items-center border border-black p-4 lg:p-8 w-full lg:h-64">
             <h4 className="text-blue-900 font-bold">MAIL</h4>
-            <p>info@msp-yacht.de</p>
-          </div>
-          <div className="flex flex-col items-center border border-black p-4 lg:p-8 w-full lg:h-64">
-            <h4 className="text-blue-900 font-bold">TELEFON</h4>
-            <p>+49 (0) 40 6073 1963</p>
+            <p>info@broker-yacht.de</p>
           </div>
         </div>
       </div>
